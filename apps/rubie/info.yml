@@ -1,0 +1,13 @@
+name: rubie
+description: best programming language
+require:
+  - terminal
+versions:
+  2.4.9:
+    image: ruby:2.4.9-alpine
+  2.5.7:
+    image: ruby:2.5.7-alpine
+  2.6.5:
+    image: ruby:2.6.5-alpine
+  2.7.0:
+    image: ruby:2.7.0-alpine
