@@ -3,3 +3,7 @@ description: hello world program
 versions:
   1.0.0:
     image: hello-world
+  2.0.0:
+    image: hello-world
+  2.1.0:
+    image: hello-world
