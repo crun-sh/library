@@ -1,3 +1,5 @@
 name: hello
 description: hello world program
-image: hello-world
+versions:
+  1.0.0:
+    image: hello-world
