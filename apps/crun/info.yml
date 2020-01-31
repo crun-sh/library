@@ -3,3 +3,5 @@ description: Installable crun
 versions:
   0.0.4:
     image: crunsh/crun:0.0.4
+  0.0.5:
+    image: crunsh/crun:0.0.5
