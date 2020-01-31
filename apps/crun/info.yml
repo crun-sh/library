@@ -5,3 +5,7 @@ versions:
     image: crunsh/crun:0.0.4
   0.0.5:
     image: crunsh/crun:0.0.5
+  0.0.6:
+    image: crunsh/crun:0.0.6
+  0.0.7:
+    image: crunsh/crun:0.0.7
